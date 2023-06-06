@@ -1,0 +1,27 @@
+SD PLC ราคาสูงมีฟิวเจอร์หรือฟังก๋ชัน เฉพาะ
+
+rs485
+rs232
+
+
+computer
+Tx ส่ง to (Rx)
+Rx รับ (Tx)
+G กราว
+
+
+PLC 
+Txx ส่ง (Rx)
+Rx รับ (Tx)
+G กราว
+
+
+output PLC
+2 :
+Transister -NPN PNP
+Relay เมคคานิคอร์
+
+
+_-_- สัญญาณ์ Count 
+
+M0-M7679 Relay
